@@ -17,7 +17,8 @@ O aplicativo oferece suporte para diversos tipos de receitas através de uma int
 
         Deployer: Facilita a configuração de itens base e ferramentas.
 
-        Sequenced Assembly: A parte mais robusta, permitindo configurar itens de transição, quantidade de loops, sequência de máquinas, chance de falha e itens resultantes da falha.
+        Sequenced Assembly: A parte mais robusta, permitindo configurar itens de transição, 
+        quantidade de loops, sequência de máquinas, chance de falha e itens resultantes da falha.
 
     Remover: Atalho rápido para gerar scripts que removem receitas existentes.
 
@@ -64,7 +65,8 @@ The application supports several recipe types through an intuitive interface:
 
         Deployer: Simplifies the configuration of base items and required tools.
 
-        Sequenced Assembly: The most robust module, allowing configuration of transitional items, loop counts, machine sequences, failure chances, and specific "junk" items for failed attempts.
+        Sequenced Assembly: The most robust module, allowing configuration of transitional items, 
+        loop counts, machine sequences, failure chances, and specific "junk" items for failed attempts.
 
     Recipe Remover: A dedicated tool to quickly generate scripts that disable existing recipes.
 
